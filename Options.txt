@@ -1,0 +1,16 @@
+Bienvenue sur votre application
+de lecture de sous-titre.
+Vous pouvez choisir la langue:
+0-Français
+1-Anglais
+2-Allemand
+3-Espagnol
+Vous pouvez choisir la couleur d'affichage des sous-titres:
+0-noir
+15-blanc
+12-rouge
+9-bleu
+14-jaune
+13-violet
+7-gris
+10-vert
