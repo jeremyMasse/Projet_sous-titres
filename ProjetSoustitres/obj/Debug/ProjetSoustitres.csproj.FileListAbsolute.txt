@@ -1,0 +1,14 @@
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C#\ProjetSoustitres\ProjetSoustitres\obj\Debug\ProjetSoustitres.csprojAssemblyReference.cache
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C#\ProjetSoustitres\ProjetSoustitres\obj\Debug\ProjetSoustitres.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C#\ProjetSoustitres\ProjetSoustitres\bin\Debug\ProjetSoustitres.exe.config
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C#\ProjetSoustitres\ProjetSoustitres\bin\Debug\ProjetSoustitres.exe
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C#\ProjetSoustitres\ProjetSoustitres\bin\Debug\ProjetSoustitres.pdb
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C#\ProjetSoustitres\ProjetSoustitres\obj\Debug\ProjetSoustitres.exe
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C#\ProjetSoustitres\ProjetSoustitres\obj\Debug\ProjetSoustitres.pdb
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C\ProjetSoustitres\ProjetSoustitres\bin\Debug\ProjetSoustitres.exe.config
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C\ProjetSoustitres\ProjetSoustitres\bin\Debug\ProjetSoustitres.exe
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C\ProjetSoustitres\ProjetSoustitres\bin\Debug\ProjetSoustitres.pdb
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C\ProjetSoustitres\ProjetSoustitres\obj\Debug\ProjetSoustitres.csprojAssemblyReference.cache
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C\ProjetSoustitres\ProjetSoustitres\obj\Debug\ProjetSoustitres.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C\ProjetSoustitres\ProjetSoustitres\obj\Debug\ProjetSoustitres.exe
+C:\Users\jerem\Documents\CoursYnov\2020_2021\C\ProjetSoustitres\ProjetSoustitres\obj\Debug\ProjetSoustitres.pdb
